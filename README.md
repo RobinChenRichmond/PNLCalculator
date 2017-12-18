@@ -5,6 +5,7 @@ This program is built in OOD to persue a high cohesion, low coupling coding styl
 The program is written in Java 8, and is built based on the assumption:
 A prices file with right format will have updates message for all the symbols in the file at each time the timestamp updates. Therefore, each timestamp will appear same number of times in the prices file.
 
+## Run
 ```
 To run the program, first open the command tool into the directory, 
 
